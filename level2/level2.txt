@@ -1,0 +1,31 @@
+Level 2 Process
+What is the DOM?
+
+The DOM is a model contructed as a tree when you load a web page.
+The dom is a platform that allows for content, style and structure of the document to be updated dynamically. 
+
+
+List three methods to manipulate the DOM.
+You can manipulate the DOM by:
+1 a query selector()
+2. createElement()
+3. addEventListener
+
+What is an asynchronous call?
+An asynchronous call means that javascript can execute in the background in parallel as it continues execute the code. 
+
+Briefly explain what the sources tab in Chromes Developers Tools does.
+in the sources tab you can view files, edit javascript, debug javascript and save changes that you make in developer tools to the disk. 
+
+What is a JavaScript promise?
+The promise is an object that represents the value that results from the complition of and operation, or the failure of that operation.
+
+What is an API?
+API is methods that comunicate between different sotfware components. It allows software to talk with other software. It makes it much easier for a developer to use data and functinality instead of having to code in what mayby a lower language that is much harder and ineffecient. 
+
+
+What is a JavaScript Event?
+Events are what occurs when a user or a browser manuipulates a page. It can be clicks, inserting text, loading, rezizing etc. When a event is triggered the developer can use them to code in a response for the given event. 
+
+What is event bubbling?
+Event bubbling is the order in which event handlers are called when elements are nestet inside eachother and they have a listener registred to the same event. 
